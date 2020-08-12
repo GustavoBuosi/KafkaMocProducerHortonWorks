@@ -1,0 +1,6 @@
+{"column0":"teste0","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}
+{"column0":"teste1","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}
+{"column0":"teste2","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}
+{"column0":"teste3","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}
+{"column0":"teste4","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}
+{"column0":"teste5","column1":{"string":"fdsafas"},"column2":123,"column3":"21.123456","column4":"211234567.12","column5":"2018-05-16","column6":"2013-11-27 14:41:52"}

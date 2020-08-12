@@ -1,0 +1,53 @@
+{
+ "name": "teste",
+ "type": "record",
+ "fields": [
+  {
+   "name": "column0",
+   "type": "string",
+   "logicalType": "CHARACTER",
+   "dbColumnName": "column0",
+   "length": 20
+  },
+  {
+   "name": "column1",
+   "type":[
+   "null",
+   "string"
+   ],
+   "default": null
+  },
+  {
+   "name": "column2",
+   "type": "int"
+  },
+  {
+   "name": "column3",
+   "type": "string",
+   "logicalType": "DECIMAL",
+   "dbColumnName": "column3",
+   "precision": 15
+  },
+  {
+   "name": "column4",
+   "type": "string",
+   "logicalType": "DECIMAL",
+   "dbColumnName": "column4",
+   "precision": 15
+  },
+  {
+   "name": "column5",
+   "type": "string",
+   "logicalType": "DATE",
+   "dbColumnName": "column5",
+   "precision": 10
+  },
+  {
+   "name": "column6",
+   "type": "string",
+   "logicalType": "TIMESTAMP",
+   "dbColumnName": "column6",
+   "length": 26
+  }
+ ]
+}
